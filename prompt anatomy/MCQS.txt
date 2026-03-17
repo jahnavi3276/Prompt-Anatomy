@@ -1,0 +1,404 @@
+generate 50mcqs on generativeai in telugu language along with answers
+
+ఇక్కడ Generative AI పై 50 MCQs (బహుళ ఎంపిక ప్రశ్నలు) తెలుగు లో మరియు సరైన సమాధానాలతో ఇవ్వబడింది.
+
+Generative AI పై 50 MCQs (తెలుగు)
+1. Generative AI అంటే ఏమిటి?
+
+A) డేటా నిల్వ చేసే వ్యవస్థ
+B) కొత్త కంటెంట్ సృష్టించే AI
+C) కంప్యూటర్ హార్డ్‌వేర్
+D) నెట్‌వర్క్ సిస్టమ్
+సమాధానం: B
+
+2. Generative AI ఏమి సృష్టించగలదు?
+
+A) టెక్స్ట్
+B) చిత్రాలు
+C) సంగీతం
+D) పైవన్నీ
+సమాధానం: D
+
+3. GPT అంటే ఏమిటి?
+
+A) Global Processing Tool
+B) Generative Pretrained Transformer
+C) General Programming Technology
+D) Graph Processing Tool
+సమాధానం: B
+
+4. Generative AI మోడల్స్ శిక్షణకు ప్రధానంగా ఏమి అవసరం?
+
+A) డేటా
+B) కీబోర్డ్
+C) మానిటర్
+D) మౌస్
+సమాధానం: A
+
+5. ChatGPT ఏ రకమైన AI మోడల్?
+
+A) Vision Model
+B) Language Model
+C) Audio Model
+D) Network Model
+సమాధానం: B
+
+6. Generative AI ప్రధానంగా ఉపయోగించే రంగం ఏమిటి?
+
+A) కంటెంట్ క్రియేషన్
+B) డేటా నిల్వ
+C) ప్రింటింగ్
+D) నెట్‌వర్కింగ్
+సమాధానం: A
+
+7. AI మోడల్ ట్రైనింగ్ అంటే ఏమిటి?
+
+A) కంప్యూటర్ రిపేర్
+B) డేటాతో AI నేర్పడం
+C) ఫైల్ సేవ్ చేయడం
+D) నెట్‌వర్క్ కనెక్ట్ చేయడం
+సమాధానం: B
+
+8. Generative AI చిత్రాలు సృష్టించడానికి ఉపయోగించే మోడల్ ఏది?
+
+A) GAN
+B) CPU
+C) RAM
+D) BIOS
+సమాధానం: A
+
+9. GAN అంటే ఏమిటి?
+
+A) Generative Adversarial Network
+B) Global AI Network
+C) General Algorithm Node
+D) Graphical AI Node
+సమాధానం: A
+
+10. Generative AI ఉపయోగించే ఒక ఉదాహరణ ఏమిటి?
+
+A) చాట్‌బాట్లు
+B) వీడియో ఎడిటింగ్
+C) ఇమేజ్ జనరేషన్
+D) పైవన్నీ
+సమాధానం: D
+
+11. Generative AI ఉపయోగించి ఏది సృష్టించవచ్చు?
+
+A) కథలు
+B) కవితలు
+C) చిత్రాలు
+D) పైవన్నీ
+సమాధానం: D
+
+12. Prompt అంటే ఏమిటి?
+
+A) AI కు ఇచ్చే సూచన
+B) కంప్యూటర్ వైరస్
+C) ఫైల్ పేరు
+D) డేటా స్టోరేజ్
+సమాధానం: A
+
+13. AI లో LLM అంటే ఏమిటి?
+
+A) Large Language Model
+B) Local Language Machine
+C) Linear Logic Model
+D) Large Logic Machine
+సమాధానం: A
+
+14. Generative AI ముఖ్యమైన ప్రయోజనం ఏమిటి?
+
+A) సమయం ఆదా చేయడం
+B) సృజనాత్మకత పెంచడం
+C) ఆటోమేషన్
+D) పైవన్నీ
+సమాధానం: D
+
+15. AI ఉపయోగించే ఒక సాధనం ఏమిటి?
+
+A) ChatGPT
+B) Photoshop
+C) Excel
+D) Paint
+సమాధానం: A
+
+16. Generative AI ఉపయోగించే రంగం?
+
+A) విద్య
+B) ఆరోగ్యం
+C) మీడియా
+D) పైవన్నీ
+సమాధానం: D
+
+17. AI మోడల్స్ ఏం నేర్చుకుంటాయి?
+
+A) డేటా ప్యాటర్న్స్
+B) కీబోర్డ్ టైపింగ్
+C) మౌస్ క్లిక్
+D) ప్రింటింగ్
+సమాధానం: A
+
+18. AI లో Transformer మోడల్ ఎవరు పరిచయం చేశారు?
+
+A) Google
+B) Microsoft
+C) Apple
+D) IBM
+సమాధానం: A
+
+19. AI లో Dataset అంటే ఏమిటి?
+
+A) డేటా సమాహారం
+B) కంప్యూటర్ భాగం
+C) నెట్‌వర్క్
+D) సాఫ్ట్‌వేర్
+సమాధానం: A
+
+20. AI లో Token అంటే ఏమిటి?
+
+A) టెక్స్ట్ భాగం
+B) ఫైల్
+C) వైరస్
+D) నెట్‌వర్క్
+సమాధానం: A
+
+21. AI మోడల్ ఫైన్ ట్యూనింగ్ అంటే ఏమిటి?
+
+A) మోడల్ మెరుగుపరచడం
+B) కంప్యూటర్ రిపేర్
+C) ఫైల్ డిలీట్
+D) డేటా స్టోరేజ్
+సమాధానం: A
+
+22. AI ఉపయోగించి కోడ్ కూడా తయారు చేయవచ్చా?
+
+A) అవును
+B) కాదు
+C) కొన్నిసార్లు
+D) తెలియదు
+సమాధానం: A
+
+23. AI వల్ల వచ్చే ఒక సమస్య ఏమిటి?
+
+A) Bias
+B) Speed
+C) Memory
+D) Network
+సమాధానం: A
+
+24. AI ఉపయోగించే ఒక చిత్రం సృష్టించే సాధనం ఏమిటి?
+
+A) DALL·E
+B) Excel
+C) Word
+D) PowerPoint
+సమాధానం: A
+
+25. Generative AI ద్వారా ఏం చేయవచ్చు?
+
+A) కథలు రాయడం
+B) చిత్రాలు తయారు చేయడం
+C) కోడ్ రాయడం
+D) పైవన్నీ
+సమాధానం: D
+
+26. AI అంటే ఏమిటి?
+
+A) Artificial Internet
+B) Artificial Intelligence
+C) Automatic Interface
+D) Advanced Internet
+సమాధానం: B
+
+27. ChatGPT ని అభివృద్ధి చేసిన సంస్థ ఏది?
+
+A) Google
+B) Microsoft
+C) OpenAI
+D) Apple
+సమాధానం: C
+
+28. Generative AI విద్యా రంగంలో ఉపయోగపడుతుందా?
+
+A) అవును
+B) కాదు
+C) కొన్నిసార్లు
+D) తెలియదు
+సమాధానం: A
+
+29. Prompt Engineering అంటే ఏమిటి?
+
+A) కంప్యూటర్ రిపేర్
+B) AI కు సరైన సూచనలు ఇవ్వడం
+C) డేటా స్టోరేజ్
+D) నెట్‌వర్క్ సెటప్
+సమాధానం: B
+
+30. NLP అంటే ఏమిటి?
+
+A) Network Language Processing
+B) Natural Language Processing
+C) Neural Logic Program
+D) Network Learning Program
+సమాధానం: B
+
+31. టెక్స్ట్ జనరేషన్ కోసం ఉపయోగించే AI మోడల్ ఏది?
+
+A) GPT
+B) CPU
+C) RAM
+D) BIOS
+సమాధానం: A
+
+32. AI ట్రైనింగ్ కు అవసరమైనది ఏమిటి?
+
+A) Dataset
+B) Keyboard
+C) Monitor
+D) Mouse
+సమాధానం: A
+
+33. AI లో Bias అంటే ఏమిటి?
+
+A) వేగం
+B) పాక్షికత
+C) మెమరీ
+D) ప్రోగ్రామ్
+సమాధానం: B
+
+34. మీడియా రంగంలో Generative AI ఉపయోగం ఏమిటి?
+
+A) Content Creation
+B) Hardware Repair
+C) Network Setup
+D) Data Storage
+సమాధానం: A
+
+35. AI మోడల్ ట్రైనింగ్ లో Training Data ముఖ్యమా?
+
+A) అవును
+B) కాదు
+C) కొన్నిసార్లు
+D) అవసరం లేదు
+సమాధానం: A
+
+36. AI చిత్రాలు సృష్టించడానికి ఉపయోగించే మోడల్ ఏది?
+
+A) GAN
+B) Excel
+C) Word
+D) Printer
+సమాధానం: A
+
+37. AI వల్ల ఉద్యోగాలపై ప్రభావం ఉంటుందా?
+
+A) అవును
+B) లేదు
+C) కొన్నిసార్లు
+D) తెలియదు
+సమాధానం: A
+
+38. Generative AI లో Prompt ముఖ్యమా?
+
+A) అవును
+B) కాదు
+C) కొన్నిసార్లు
+D) అవసరం లేదు
+సమాధానం: A
+
+39. LLM అంటే ఏమిటి?
+
+A) Large Language Model
+B) Local Learning Machine
+C) Logic Language Model
+D) Linear Learning Model
+సమాధానం: A
+
+40. Generative AI కోడింగ్ లో ఉపయోగపడుతుందా?
+
+A) అవును
+B) కాదు
+C) కొన్నిసార్లు
+D) తెలియదు
+సమాధానం: A
+
+41. AI చాట్‌బాట్ ఉదాహరణ ఏమిటి?
+
+A) ChatGPT
+B) Excel
+C) Photoshop
+D) Paint
+సమాధానం: A
+
+42. AI మోడల్ మెరుగుపరచడాన్ని ఏమని అంటారు?
+
+A) Fine Tuning
+B) Formatting
+C) Editing
+D) Printing
+సమాధానం: A
+
+43. Generative AI వల్ల కంటెంట్ తయారీ వేగంగా జరుగుతుందా?
+
+A) అవును
+B) కాదు
+C) కొన్నిసార్లు
+D) తెలియదు
+సమాధానం: A
+
+44. Generative AI ద్వారా వీడియోలు కూడా తయారు చేయవచ్చా?
+
+A) అవును
+B) కాదు
+C) కొన్నిసార్లు
+D) అసలు కాదు
+సమాధానం: A
+
+45. AI నేర్చుకునే ప్రక్రియను ఏమని అంటారు?
+
+A) Training
+B) Printing
+C) Editing
+D) Uploading
+సమాధానం: A
+
+46. AI టెక్నాలజీ అభివృద్ధి ఎలా జరుగుతోంది?
+
+A) చాలా వేగంగా
+B) నెమ్మదిగా
+C) అసలు లేదు
+D) తెలియదు
+సమాధానం: A
+
+47. AI మోడల్ పరిమాణాన్ని ఏమి సూచిస్తుంది?
+
+A) Parameters
+B) Keyboard
+C) Monitor
+D) Printer
+సమాధానం: A
+
+48. AI సృష్టించిన కంటెంట్ ను ఏమని అంటారు?
+
+A) Synthetic Content
+B) Natural Content
+C) Printed Content
+D) Manual Content
+సమాధానం: A
+
+49. Generative AI భవిష్యత్తులో విస్తరించనుందా?
+
+A) అవును
+B) కాదు
+C) కొన్నిసార్లు
+D) తెలియదు
+సమాధానం: A
+
+50. Generative AI ప్రధాన లక్ష్యం ఏమిటి?
+
+A) డేటా నిల్వ
+B) కొత్త కంటెంట్ సృష్టించడం
+C) కంప్యూటర్ రిపేర్
+D) నెట్‌వర్క్ సెటప్
+సమాధానం: B
